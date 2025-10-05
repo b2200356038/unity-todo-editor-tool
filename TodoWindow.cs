@@ -157,9 +157,9 @@ public class TodoWindow : EditorWindow
     {
         return p switch
         {
-            Priority.High => new Color(1f, 0.3f, 0.3f, 0.7f),
-            Priority.Medium => new Color(1f, 0.7f, 0.2f, 0.7f),
-            Priority.Low => new Color(0.5f, 0.7f, 1f, 0.7f),
+            Priority.High => new Color(0.3f, 0.3f, 0.3f, 0.9f),     
+            Priority.Medium => new Color(0.5f, 0.5f, 0.5f, 0.9f),    
+            Priority.Low => new Color(0.7f, 0.7f, 0.7f, 0.9f),     
             _ => Color.white
         };
     }
