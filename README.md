@@ -18,4 +18,5 @@ Persistent data storage using Scriptable Objects
 3. Check off completed tasks
 
 ## Screenshots
-<img width="424" height="412" alt="image" src="https://github.com/user-attachments/assets/67ff373a-da1a-4cbb-afed-a1300efb78d7" />
+<img width="414" height="455" alt="image" src="https://github.com/user-attachments/assets/743a63da-ecc6-43fa-b32e-e50ba6c0f93c" />
+
